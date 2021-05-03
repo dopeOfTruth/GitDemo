@@ -12,10 +12,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        view.backgroundColor = .gray
         
     }
 
 
+    func doSomething() {
+        print("Hellow worl")
+    }
+    
 }
 
