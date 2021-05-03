@@ -61,11 +61,11 @@
 				286A1E27263FD523007283E5 /* AppDelegate.swift */,
 				286A1E29263FD523007283E5 /* SceneDelegate.swift */,
 				286A1E2B263FD523007283E5 /* ViewController.swift */,
-				286A1E3B263FDF43007283E5 /* .gitignore */,
 				286A1E2D263FD523007283E5 /* Main.storyboard */,
 				286A1E30263FD526007283E5 /* Assets.xcassets */,
 				286A1E32263FD526007283E5 /* LaunchScreen.storyboard */,
 				286A1E35263FD526007283E5 /* Info.plist */,
+				286A1E3B263FDF43007283E5 /* .gitignore */,
 			);
 			path = Git;
 			sourceTree = "<group>";

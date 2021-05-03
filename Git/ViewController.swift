@@ -12,13 +12,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.backgroundColor = .gray
+        view.backgroundColor = .blue
         
     }
 
 
     func doSomething() {
-        print("Hellow worl")
+        print("Hellow world")
+    }
+    
+    func setupConstraints() {
+        
     }
     
 }
