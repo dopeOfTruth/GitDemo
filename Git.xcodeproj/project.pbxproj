@@ -13,6 +13,7 @@
 		286A1E2F263FD523007283E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 286A1E2D263FD523007283E5 /* Main.storyboard */; };
 		286A1E31263FD526007283E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 286A1E30263FD526007283E5 /* Assets.xcassets */; };
 		286A1E34263FD526007283E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 286A1E32263FD526007283E5 /* LaunchScreen.storyboard */; };
+		286A1E3C263FDF43007283E5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 286A1E3B263FDF43007283E5 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		286A1E30263FD526007283E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		286A1E33263FD526007283E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		286A1E35263FD526007283E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		286A1E3B263FDF43007283E5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				286A1E27263FD523007283E5 /* AppDelegate.swift */,
 				286A1E29263FD523007283E5 /* SceneDelegate.swift */,
 				286A1E2B263FD523007283E5 /* ViewController.swift */,
+				286A1E3B263FDF43007283E5 /* .gitignore */,
 				286A1E2D263FD523007283E5 /* Main.storyboard */,
 				286A1E30263FD526007283E5 /* Assets.xcassets */,
 				286A1E32263FD526007283E5 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				286A1E3C263FDF43007283E5 /* .gitignore in Resources */,
 				286A1E34263FD526007283E5 /* LaunchScreen.storyboard in Resources */,
 				286A1E31263FD526007283E5 /* Assets.xcassets in Resources */,
 				286A1E2F263FD523007283E5 /* Main.storyboard in Resources */,
